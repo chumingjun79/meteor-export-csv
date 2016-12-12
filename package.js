@@ -1,8 +1,8 @@
 Package.describe({
   summary: "Export a collection to csv",
-  name: "lfergon:exportcsv",
-  version: "0.0.8",
-  git: "https://github.com/lfergon/meteor-export-csv.git"
+  name: "f3r:download-collection-csv",
+  version: "0.0.9",
+  git: "https://github.com/f3r/meteor-export-csv.git"
 });
 
 Package.on_use(function(api) {
